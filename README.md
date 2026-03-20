@@ -1,2 +1,7 @@
+Nombre: Iván
+Apellido: Rodríguez Cruz
+
+Curso: 2º Ingeniería de Software y Videojuegos.
+
 # Actividades_IA
-Conjunto de actividades llevadas a cabo en IA
+- CIFAR10
